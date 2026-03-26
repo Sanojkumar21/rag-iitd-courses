@@ -1,28 +1,4 @@
-# Python
-__pycache__/
-*.pyc
-
-# Virtual env
-venv/
-env/
-
-# Environment variables
 .env
-
-# Jupyter
-.ipynb_checkpoints/
-
-# Vector DB / embeddings
+venv/
+__pycache__/
 vectorstore/
-*.faiss
-*.pkl
-*.db
-
-# Data files (PDFs)
-data/
-
-# Logs
-*.log
-
-# OS files
-.DS_Store
