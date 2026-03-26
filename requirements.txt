@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+chromadb
+pdfplumber
+streamlit
+sentence-transformers
+python-dotenv
+tiktoken
+langchain-community rank_bm25

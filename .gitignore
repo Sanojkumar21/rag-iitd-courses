@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+env/
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Vector DB / embeddings
+vectorstore/
+*.faiss
+*.pkl
+*.db
+
+# Data files (PDFs)
+data/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
